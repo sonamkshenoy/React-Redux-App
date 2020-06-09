@@ -1,2 +1,2 @@
 # React-Redux-App
-A React Redux App. Uses Semantic UI.
+A React Redux App. Used Semantic UI.
